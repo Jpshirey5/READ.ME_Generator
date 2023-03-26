@@ -29,4 +29,4 @@ Run node index.js in the command line and answer the prompts.
 This project is licensed under the MIT license.
 
 ## Questions
-If you have any questions, please contact me at jayshirey@icloud.com or visit my [GitHub profile](https://github.com/undefined).
+If you have any questions, please contact me at jayshirey@icloud.com or visit my [GitHub profile](https://github.com/Jpshirey5).
