@@ -23,7 +23,7 @@ Thank you but I will not be accepting contributions.
 
 ## Tests
 Run node index.js in the command line and answer the prompts.
-[DEMO Video](../images/ReadMe%20Generator%20Challenge%209%20DEMO.mp4)
+[DEMO Video](https://drive.google.com/file/d/1IWsZbClkXHD9fHM_mGYds7UPqXMthB7r/view?usp=share_link)
 
 ## License
 This project is licensed under the MIT license.
